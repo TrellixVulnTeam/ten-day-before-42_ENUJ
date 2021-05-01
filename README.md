@@ -4,7 +4,7 @@
 <br><br>
 
 
-- 👾 **List of topics to study**
+👾  **List of topics to study**
 
     > Next days I'll be focused on React.js following Ignite classes from Rocketseat.
 
@@ -16,7 +16,7 @@
 <br><br>
      
 
-**🤖 List of projects to finish**
+**🤖  List of projects to finish**
 
     - [ ]  A To-do List. [https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d)
     - [ ]  Restaurant Website with Typescript. [https://www.notion.so/Desafio-02-Refactoring-de-classes-e-typescript-4571541e7f8c4799bd191b6cfb53802c](https://www.notion.so/Desafio-02-Refactoring-de-classes-e-typescript-4571541e7f8c4799bd191b6cfb53802c)
@@ -25,13 +25,13 @@
 <br><br>
 
 
-👽 **Things to organize**
+👽  **Things to organize**
     - [ ]  Github projects.
     - [ ]  My site/blog.
 <br><br>
 
 
-🤡 **Final Goals**
+🤡  **Final Goals**
     - [ ]  Write two blog posts.
     - [ ]  Four good projects to my portfolio.
     - [ ]  Don't panic.
