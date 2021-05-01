@@ -1,6 +1,6 @@
-#10 day before 42 
+# 10 day before 42 
 
-| This is a ten-day study road-map before starting at 42 São Paulo. 
+### This is a ten-day study road-map before starting at 42 São Paulo. 
 
 - 👾 **List of topics to study**
 
