@@ -1,0 +1,61 @@
+{
+  "workbench.startupEditor": "none",
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  // Good for Recording
+  "editor.renderLineHighlight": "gutter",
+  "breadcrumbs.enabled": true,
+  "window.titleBarStyle": "native", // "native" on Linux, "custom" on Windows
+  "window.menuBarVisibility": "compact",
+  // Editor Behavior
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  // Sets the Font size and family
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontWeight": "400",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 26,
+  "editor.fontLigatures": true,
+  // Editor indentation settings
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": true,
+  // Auto applies editor rules for long lines of code
+  "editor.rulers": [
+    80
+  ],
+  // Increases terminal font size
+  "terminal.integrated.fontSize": 15,
+  // Emmet
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx" // Defines auto closing tags in JSX
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  // Colorize settings
+  "colorize.languages": [
+    "javascript",
+    "typescript",
+    "json",
+    "html",
+    "css"
+  ],
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "C_Cpp.updateChannel": "Insiders",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.renderWhitespace": "none",
+  "explorer.confirmDelete": false,
+  "kite.showWelcomeNotificationOnStartup": false,
+}
