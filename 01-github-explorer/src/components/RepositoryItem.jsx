@@ -3,7 +3,7 @@ export function RepositoryItem(props) {
     <li>
       <strong>{props.repository?.name ?? 'Default'}</strong>
       <p>{props.repository?.description ?? 'React default'}</p>
-      <a href={props.repository?.link ?? 'www.google.com/'}>access repository</a>
+      <a target='_blank' href={props.repository?.link ?? 'https://github.com/itallosavieira'}>access repository</a>
     </li>
   )
 }
